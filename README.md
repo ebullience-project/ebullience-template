@@ -12,11 +12,11 @@ npm install
 Then you can develop your project. Run:
 
 ```shell script
-esc dev
+ebc dev
 ```
 
 You can build your project. Run:
 
 ```shell script
-esc build
+ebc build
 ```

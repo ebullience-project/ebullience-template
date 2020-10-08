@@ -6,6 +6,10 @@
     "type": "git",
     "url": "git+https://github.com/qinshixixing/ebullience-template.git"
   },
+  "scripts": {
+    "dev": "ebc dev",
+    "build": "ebc build"
+  },
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
