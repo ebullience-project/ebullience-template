@@ -1,0 +1,16 @@
+{
+  "name": "ebullience-template",
+  "author": "qinshixixing",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinshixixing/ebullience-template.git"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "ebullience": "^1.0.0"
+  }
+}

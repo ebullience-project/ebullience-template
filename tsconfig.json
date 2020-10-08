@@ -1,0 +1,3 @@
+{
+  "extends": "ebullience/src/tsconfig.json"
+}
