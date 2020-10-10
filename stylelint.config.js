@@ -1,12 +1,3 @@
-const config = require('ebullience/lib/stylelint.js');
-
-const rules = {
-  // your rules
+module.exports = {
+  extends: '@ebullience/stylelint-config'
 };
-
-config.rules = {
-  ...config.rules,
-  ...rules
-};
-
-module.exports = config;

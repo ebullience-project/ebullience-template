@@ -1,12 +1,3 @@
-const config = require('ebullience/lib/eslint.js');
-
-const rules = {
-  // your rules
+module.exports = {
+  extends: '@ebullience'
 };
-
-config.rules = {
-  ...config.rules,
-  ...rules
-};
-
-module.exports = config;
