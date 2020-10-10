@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebullience-project/ebullience-template.git"
+    "url": "git+https://github.com/ebullience-project/ebullience-template.git#scope"
   },
   "scripts": {
     "dev": "ebc dev",
@@ -15,6 +15,6 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "ebullience": "git+https://github.com/ebullience-project/ebullience.git"
+    "@ebullience/ebullience": "^1.0.0"
   }
 }
