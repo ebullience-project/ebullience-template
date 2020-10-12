@@ -15,6 +15,6 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "ebullience": "git+https://github.com/ebullience-project/ebullience.git"
+    "ebullience": "^1.0.1"
   }
 }
