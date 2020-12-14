@@ -1,3 +1,5 @@
 module.exports = {
-  outputDir: 'dist'
+  outputDir: 'dist',
+  layout: '../static/index.html',
+  supportIE: true
 };

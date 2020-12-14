@@ -1,6 +1,7 @@
 {
-  "extends": "@ebullience/typescript-config/react/tsconfig.json",
+  "extends": "@ebullience/typescript-config/src/tsconfig.json",
   "include": [
-    "src"
+    "src",
+    "type"
   ]
 }
